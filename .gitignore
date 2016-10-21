@@ -1,0 +1,7 @@
+Debug
+.vs
+ipch
+x64
+*.db
+doswfsearch\Debug
+doswfsearch\x64
